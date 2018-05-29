@@ -12,6 +12,7 @@ import lecturer.lecturer;
 public class departmenfsdgsdt  {
 	
 	private int numer=12;
+	int studentFinishAlone=7;
 	
 }
 
