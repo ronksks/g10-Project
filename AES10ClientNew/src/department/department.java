@@ -11,7 +11,7 @@ import lecturer.lecturer;
  */
 public class departmenfsdgsdt  {
 	
-	private int numer=4;
+	private int number=100;
 	
 }
 
