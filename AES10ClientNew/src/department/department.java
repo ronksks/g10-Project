@@ -11,7 +11,7 @@ import lecturer.lecturer;
  */
 public class departmenfsdgsdt  {
 	
-	private void numer=4;
+	private void numer=2;
 }
 
 public class department implements Serializable {
