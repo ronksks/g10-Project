@@ -11,11 +11,8 @@ import lecturer.lecturer;
  */
 public class departmenfsdgsdt  {
 	
-<<<<<<< HEAD
 	private int number=100;
-=======
-	private int numer=6;
->>>>>>> refs/remotes/origin/master
+
 	
 }
 
