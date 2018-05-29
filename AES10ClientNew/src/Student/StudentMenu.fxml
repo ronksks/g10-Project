@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.ColorAdjust?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="378.0" prefWidth="476.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+  <children>
+    <AnchorPane prefHeight="369.0" prefWidth="483.0">
+      <children>
+        <Text fill="#0066ff" layoutX="189.0" layoutY="64.0" scaleX="2.9929938488775205" scaleY="2.002447381302007" strokeType="OUTSIDE" strokeWidth="0.0" text="Student's Menu">
+          <font>
+            <Font name="System Bold" size="15.0" />
+          </font>
+        </Text>
+        <Button id="getReports" fx:id="compExam" layoutX="25.0" layoutY="127.0" mnemonicParsing="false" prefWidth="175.0" text="Take Computerized Exam" textFill="#0029ff" />
+        <Button id="getReports" fx:id="checkGrade" layoutX="25.0" layoutY="214.0" mnemonicParsing="false" prefWidth="175.0" text="Check Grades">
+          <textFill>
+            <Color blue="1.000" green="0.161" red="0.000" fx:id="x1" />
+          </textFill>
+        </Button>
+        <Button id="getReports" fx:id="getExamCopy" layoutX="25.0" layoutY="259.0" mnemonicParsing="false" prefWidth="175.0" text="Get Exam Copy" textFill="$x1" />
+            <Button fx:id="manExam" layoutX="25.0" layoutY="172.0" mnemonicParsing="false" prefWidth="175.0" text="Take Manual Exam">
+               <textFill>
+                  <Color blue="1.000" green="0.160" red="0.000" fx:id="x11" />
+               </textFill>
+            </Button>
+      </children>
+    </AnchorPane>
+  </children>
+</AnchorPane>
