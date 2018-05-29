@@ -11,6 +11,11 @@ import lecturer.lecturer;
  * 
  *	Entity Class Contain department Details 
  */
+
+public class ron()
+{
+	
+}
 public class department implements Serializable {
 	private int did;
 	private String dName;
