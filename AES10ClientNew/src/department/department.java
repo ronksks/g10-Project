@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import Student.student;
 import lecturer.lecturer;
 
-/// this a sdf
+/// this a ron yalensky the douchebag
 /**
  * 
  *	Entity Class Contain department Details 
