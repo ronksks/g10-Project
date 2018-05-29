@@ -5,16 +5,12 @@ import java.util.ArrayList;
 import Student.student;
 import lecturer.lecturer;
 
-/// this a ron yalensky the douchebag
 /**
  * 
  *	Entity Class Contain department Details 
  */
 
-public class ron()
-{
-	
-}
+
 public class department implements Serializable {
 	private int did;
 	private String dName;
