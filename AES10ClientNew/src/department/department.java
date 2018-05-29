@@ -11,9 +11,8 @@ import lecturer.lecturer;
  */
 public class departmenfsdgsdt  {
 	
-	private int number=100;
-
-
+	private int numer=12;
+	public String name = "Roni";
 }
 
 public class department implements Serializable {
