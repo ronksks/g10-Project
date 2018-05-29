@@ -10,6 +10,8 @@ import lecturer.lecturer;
  *	Entity Class Contain department Details 
  */
 public class departmenfsdgsdt  {
+	
+	private void numer=4;
 }
 
 public class department implements Serializable {
