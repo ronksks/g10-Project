@@ -11,13 +11,9 @@ import lecturer.lecturer;
  */
 public class departmenfsdgsdt  {
 	
-<<<<<<< HEAD
 	private int number=100;
 
-=======
-	private int numer=12;
->>>>>>> refs/remotes/origin/master
-	
+
 }
 
 public class department implements Serializable {
