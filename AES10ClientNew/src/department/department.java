@@ -8,6 +8,7 @@ import lecturer.lecturer;
  * 
  *	Entity Class Contain department Details 
  */
+//this is
 //abcdefghijklmnopqrstuvwxyz
 //this is a conflict for roni
 //new note
