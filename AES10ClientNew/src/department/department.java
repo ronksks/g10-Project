@@ -9,7 +9,7 @@ import lecturer.lecturer;
  *	Entity Class Contain department Details 
  */
 
-//abcdefghijklmnopqrstuvwxyz
+//this is a conflict for roni
 public class department implements Serializable {
 	private int did;
 	private String dName;
