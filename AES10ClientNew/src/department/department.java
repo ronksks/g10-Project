@@ -4,14 +4,12 @@ import java.util.ArrayList;
 
 import Student.student;
 import lecturer.lecturer;
-//fresh start#2
-// aviv first change #3
 /**
  * 
  *	Entity Class Contain department Details 
  */
 
-
+// abcdklfdsfdsklf
 public class department implements Serializable {
 	private int did;
 	private String dName;
