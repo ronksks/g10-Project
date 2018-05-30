@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import Student.student;
 import lecturer.lecturer;
-// aviv first change
+// aviv first change #3
 /**
  * 
  *	Entity Class Contain department Details 
