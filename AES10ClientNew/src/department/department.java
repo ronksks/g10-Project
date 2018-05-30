@@ -4,20 +4,12 @@ import java.util.ArrayList;
 
 import Student.student;
 import lecturer.lecturer;
-// aviv first change #5
+//fresh start
 /**
  * 
  *	Entity Class Contain department Details 
  */
-<<<<<<< HEAD
-// rons first push
-=======
-public class departmenfsdgsdt  {
-	
-	private int numer=12;
-	public String name = "Roni";
-}
->>>>>>> refs/remotes/origin/master
+
 
 public class department implements Serializable {
 	private int did;
