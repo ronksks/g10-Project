@@ -4,7 +4,11 @@ import java.util.ArrayList;
 
 import Student.student;
 import lecturer.lecturer;
+<<<<<<< HEAD
 //fresh start#2
+=======
+// aviv first change #3
+>>>>>>> refs/remotes/origin/Aviv's_branch
 /**
  * 
  *	Entity Class Contain department Details 
