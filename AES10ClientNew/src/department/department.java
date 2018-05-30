@@ -8,13 +8,9 @@ import lecturer.lecturer;
  * 
  *	Entity Class Contain department Details 
  */
-
-<<<<<<< HEAD
 //abcdefghijklmnopqrstuvwxyz
-//new note
-=======
 //this is a conflict for roni
->>>>>>> refs/remotes/origin/master
+//new note
 public class department implements Serializable {
 	private int did;
 	private String dName;
