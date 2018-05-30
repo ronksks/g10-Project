@@ -10,6 +10,7 @@ import lecturer.lecturer;
  */
 
 //abcdefghijklmnopqrstuvwxyz
+//new note
 public class department implements Serializable {
 	private int did;
 	private String dName;
