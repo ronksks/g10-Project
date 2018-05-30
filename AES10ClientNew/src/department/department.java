@@ -8,7 +8,7 @@ import lecturer.lecturer;
  * 
  *	Entity Class Contain department Details 
  */
-
+// jLocal Roni's Branch
 public class department implements Serializable {
 	private int did;
 	private String dName;
